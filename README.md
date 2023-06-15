@@ -1,3 +1,3 @@
 # demo-repo
 
-Thos is the demo-repo for qa software technologiesh may 2023 
+This is the demo-repo for QA Software Technologiesh May 2023 
